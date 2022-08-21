@@ -5,8 +5,9 @@
 
 int main(){
 
-    printf("HelloWorld!");
     int a = 1;
+    char name[] = "Bruh";
+    printf("I`m %s", name);
 
     return 0;
 }
