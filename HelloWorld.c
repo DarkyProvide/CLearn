@@ -8,6 +8,7 @@ int main(){
     int a = 1;
     char name[] = "Bruh";
     printf("I`m %s", name);
+    //Try IT!
 
     return 0;
 }
